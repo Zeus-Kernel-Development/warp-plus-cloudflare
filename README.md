@@ -9,3 +9,4 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 
 
 ### [?] How to use this script
+First download python and install in your system. https://www.python.org/downloads/
