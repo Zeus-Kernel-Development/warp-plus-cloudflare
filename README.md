@@ -8,8 +8,7 @@
 WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve higher speeds and ensure your connection is encrypted across the long haul of the Internet. [Read more](https://blog.cloudflare.com/announcing-warp-plus/)
 
 
-### [?] How to use this script
-*for ( windows, mac, linux )*
+### [?] How to use this script *for ( windows, mac, linux )*
 - First download python and install in your system. [Python 3.7+](https://www.python.org/downloads/)
 - Install module requests
 - `pip install requests` copy in cmd or terminal and click enter btn
