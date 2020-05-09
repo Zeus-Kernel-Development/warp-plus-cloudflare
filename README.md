@@ -11,11 +11,16 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 ### [?] How to use this script
 *for ( windows, mac, linux )*
 - First download python and install in your system. [Python 3.7+](https://www.python.org/downloads/)
-- install module requests
+- Install module requests
 - `pip install requests` copy in cmd or terminal and click enter btn
 - Download [this project](https://github.com/aliilapro/warp-plus-cloudflare/archive/master.zip) and extract it
 - Open a cmd or terminal or shell in the extracted directory
 - Enter `python wp-plus.py`
 - Run the script and use it
 
-*for ( android and use termux )*
+### [?] How to get the warp+ ID?
+
+1. Open 1.1.1.1 App
+2. Click on the Hamburger Menu Icon ☰
+3. Advanced > Diagonistics
+4. Under Client Configuration > Copy the ID
