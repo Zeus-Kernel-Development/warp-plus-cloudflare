@@ -10,6 +10,11 @@ WARP+ uses Cloudflare’s virtual private backbone, known as Argo, to achieve hi
 
 ### [?] How to use this script
 *for ( windows, mac, linux )*
-- First download python and install in your system. https://www.python.org/downloads/
+- First download python and install in your system. [Python 3.7+](https://www.python.org/downloads/)
 - install module requests
 - `pip install requests` copy on cmd or terminal and enter
+- Open a cmd or terminal or shell in the extracted directory
+- Enter `python wp-plus.py`
+- Run the script and use it
+
+### [?] How to use this script
